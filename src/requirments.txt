@@ -1,0 +1,2 @@
+CoDrone>=2.0
+keyboard>=0.13
